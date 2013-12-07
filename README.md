@@ -1,33 +1,36 @@
-# classrecipe-template
+# Champion-with-physics
 ## elementary,social,classroom
 This document is made by [gitfab](http://gitfab.org)
 ---
 #Target
-Elementary School (6-12)
+Junior High School (12-15)
 
 
-![IMG_2918.JPG](https://raw.github.com/dadaa/classrecipe-template/master/gitfab/resources/IMG_2918.JPG)
+
+
+![lomba_smp1.jpg](https://raw.github.com/HidayatAtori/Champion-with-physics/master/gitfab/resources/lomba_smp1.jpg)
 ---
 #Scale
-1 classroom (~30)
+1 classroom (~25)
 
 ---
 #Overall
-In this activity, students make a introduction movie about their own country, and presentation for others.
+Physics today is not that scary anymore, but now something ytang cool, a lot of pride when working on the physics and find the answer. even now many people excel, be a big man with physics.
 
 
 ---
 #Educational Effect
-* Search information and Remixing
+* Information about champion physic
 
 skill
 
-* Presentation Skill
+* foster confident nature, and champion
+* fast and responsive to the questions count.
 * deep Knowledge for own country
 
 ---
 #Item/Material/System
-* PC *Installed latest [Firefox](http://www.mozilla.org/en-US/firefox/)
-* Popcorn Maker
-* Screen for presentation
+* Book
+* will
+* resilient nature, diligently and never give up
 ---
